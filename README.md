@@ -4,7 +4,7 @@ This tutorial represents an educational example to use a Chainlink system, produ
 [中文](#内容介绍) | [English for review](#english-for-review)
 
 这个 repository 是初学者课程《Web3 和区块链技术》的代码部分，并且包括课程中提到过的资料。
-
+视频地址 https://www.bilibili.com/video/BV1RFsfe5Ek5
 ## 测试网水龙头(Testnet Faucets)
 Chainlink 测试网水龙头：https://faucets.chain.link <br>
 Alchemy 测试网水龙头：https://sepoliafaucet.com/ <br>
